@@ -19,7 +19,7 @@ A one-click desktop manager for **llama.cpp** on Windows. No coding required —
 
 ## Download
 
-Download the latest release: [dist/MiniLLM.exe](dist/MiniLLM.exe) (approximately 31 MB).
+Download the latest release: [MiniLLM.exe](MiniLLM.exe) (approximately 31 MB).
 
 ## Quick Start
 
