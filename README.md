@@ -5,7 +5,6 @@ A one-click desktop manager for **llama.cpp** on Windows. No coding required —
 ![MiniLLM screenshot](assets/logo.png)
 
 - **Author**: Bashige
-- **Website**: [www.bashige.com](https://www.bashige.com)
 
 ## Features
 
