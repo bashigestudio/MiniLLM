@@ -51,13 +51,6 @@ Settings are stored in `%APPDATA%/MiniLLM/config.json`. The app remembers your v
 - **Pillow**, **PyInstaller** (for building the executable)
 - **llama.cpp** binaries are downloaded automatically
 
-## Building from Source
-
-```bash
-pip install Pillow PyInstaller pystray
-python -m PyInstaller --onefile --windowed --name MiniLLM --icon assets/icon.ico --add-data "assets;assets" app.py
-```
-
 ## License
 
 MIT License
