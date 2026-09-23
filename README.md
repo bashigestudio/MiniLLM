@@ -1,6 +1,4 @@
-# MiniLLM
-
-A one-click desktop manager for **llama.cpp** on Windows. No coding required — install, start the server, and chat with your model through a local API in seconds.
+# MiniLLM A one-click desktop manager for **llama.cpp** on Windows. No coding required — install, start the server, and chat with your model through a local API in seconds.
 
 ![MiniLLM screenshot](assets/logo.png)
 
